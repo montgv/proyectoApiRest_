@@ -6,6 +6,8 @@
   <session-factory>
     <property name="connection.url">jdbc:mysql://localhost:3306/bd_hospital_api</property>
     <property name="connection.driver_class">com.mysql.cj.jdbc.Driver</property>
+      <property name="connection.username">root</property>
+      <property name="connection.password">practica</property>
       <mapping class="com.example.proyectoapirest.modelo.EnfermeraClass"/>
       <mapping class="com.example.proyectoapirest.modelo.HospitalClass"/>
       <mapping class="com.example.proyectoapirest.modelo.MedicoClass"/>

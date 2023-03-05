@@ -1,6 +1,5 @@
 package com.example.proyectoapirest.controladores;
 
-import com.example.proyectoapirest.modelo.HospitalClass;
 import com.example.proyectoapirest.modelo.IMedicoDAO;
 import com.example.proyectoapirest.modelo.MedicoClass;
 import org.springframework.beans.factory.annotation.Autowired;
