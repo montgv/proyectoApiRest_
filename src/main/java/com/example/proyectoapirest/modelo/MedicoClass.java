@@ -2,8 +2,6 @@ package com.example.proyectoapirest.modelo;
 
 import jakarta.persistence.*;
 
-import java.util.Objects;
-
 //Indicamos a la clase que es una entidad
 @Entity
 //Asociamos con una tabla de la base de datos
